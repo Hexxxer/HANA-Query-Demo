@@ -1,1 +1,2 @@
 select * from ORDR
+where "DateDiff" = 1
